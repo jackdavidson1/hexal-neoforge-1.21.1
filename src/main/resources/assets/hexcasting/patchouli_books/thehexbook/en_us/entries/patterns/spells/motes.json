@@ -21,7 +21,7 @@
     },
     {
       "type": "hexcasting:brainsweep",
-      "recipe": "hexal:brainsweep/mediafied_storage",
+      "recipe": "hexal:brainsweep/brainsweep/mediafied_storage",
       "text": "hexal.page.motes.mediafed_storage_recipe"
     },
     {
